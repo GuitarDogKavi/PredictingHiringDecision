@@ -1,0 +1,10 @@
+OrderedDict([('boosting_type', 'goss'),
+             ('colsample_bytree', 0.5),
+             ('learning_rate', 0.045425969545453554),
+             ('max_depth', 3),
+             ('min_child_samples', 100),
+             ('n_estimators', 871),
+             ('num_leaves', 176),
+             ('reg_alpha', 1.0),
+             ('reg_lambda', 0.1655033647164616),
+             ('subsample', 0.8216357649376596)])
